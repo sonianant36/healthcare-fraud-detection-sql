@@ -28,7 +28,9 @@ This project develops and validates a **rule-based tiered fraud detection framew
 ---
 
 ## Repository Structure
-
+<pre>
+```
+healthcare-fraud-detection-sql/
 ├── README.md                                    ← You are here
 ├── analysis/
 │   ├── Healthcare_Fraud_Detection_Report.docx   ← 23-page executive report
@@ -38,7 +40,9 @@ This project develops and validates a **rule-based tiered fraud detection framew
 │   ├── 02_unpivot_codes.sql                     ← Wide-to-long transformation
 │   └── 03_fraud_investigations.sql              ← All 4 detection investigations
 └── data/
-└── README.md                                ← Dataset source pointer
+    └── README.md                                ← Dataset source pointer
+```
+</pre>
 
 ---
 
